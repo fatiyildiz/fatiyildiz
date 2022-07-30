@@ -2,13 +2,13 @@
 <h3 align="center">A passionate DevOps Engineer</h3>
 
 
-- 🌱 I’m currently learning **Kubernetes**
+- 🌱 I’m currently learning Anything about DevOps and Cloud
 
 - 💬 Ask me about **AWS**
 
 - 📫 How to reach me **fatihyildiz8935@gmail.com**
 
-- ⚡ Fun fact **Pipeline is ready, time to pray**
+- ⚡ Fun fact **Deploying = Praying**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
