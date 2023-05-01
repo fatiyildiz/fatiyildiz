@@ -1,8 +1,7 @@
-<h1 align="center">Hi 👋, I'm Fatih</h1>
-<h3 align="center">A passionate DevOps Engineer</h3>
+<h1 align="center">Hi 👋, I'm Fati Yildiz.</h1>
+<h3 align="center">Experienced DevOps engineer with expertise in managing software development processes, deploying applications in production environments, and implementing automation and configuration management tools. Skilled in cloud technologies, microservice architecture, coding, test automation, security, and network management. Proven ability to accelerate software delivery and prevent errors from reaching the production environment. Experienced in managing all stages of the development process and developing strategies to enhance collaboration between teams. Possesses excellent communication and collaboration skills, as well as problem-solving and analytical thinking abilities. Passionate about the software development process and keeping up-to-date with technological trends. Check out my portfolio and projects to see my contributions to the DevOps community.</h3>
 
-
-- 🌱 I’m currently learning Anything about DevOps and Cloud
+My portfolio website is www.fatihyildiz.us
 
 - 💬 Ask me about **AWS**
 
