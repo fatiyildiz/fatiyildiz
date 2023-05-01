@@ -62,7 +62,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/fthyldz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/fthyldz" height="30" width="40" /></a>
  
-<a href="fatihyildiz8935@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=X0mEIh0RyDdL&format=png" alt="linkedin.com/in/fthyldz" height="40" width="40" /></a>
+<a href="mailto:youremail@example.com" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=X0mEIh0RyDdL&format=png" alt="email" height="40" width="40" /></a>
 
 </p>
 
