@@ -3,15 +3,21 @@
 
 My portfolio website is www.fatihyildiz.us
 
-- 💬 Ask me about **AWS**
+# Education And Certification
 
-- 📫 How to reach me **fatihyildiz8935@gmail.com**
+- Ege University - Computer Science
+- Cloud - DevOps Enginner Bootcamp
+- AWS Certified Solutions Architect – Associate
+- AWS Cloud Quest: Cloud Practitioner
 
-- ⚡ Fun fact **Deploying = Praying**
+# Tools, platform and programing language
+
+- Amazon Web Services (AWS) <a href="https://aws.amazon.com"  rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" height="50"/> </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/fthyldz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/fthyldz" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
