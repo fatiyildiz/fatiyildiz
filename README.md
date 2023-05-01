@@ -5,13 +5,6 @@
 
 ## My portfolio website is www.fatihyildiz.us
 
-# Education And Certification
-
-- Ege University - Computer Science
-- Cloud - DevOps Enginner Bootcamp
-- AWS Certified Solutions Architect – Associate
-- AWS Cloud Quest: Cloud Practitioner
-
 # Tools, platform and programing language
 ### ~ Cloud Platforms
   - Amazon Web Services (AWS) <a href="https://aws.amazon.com"  rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" height="50"/> </a>
@@ -56,7 +49,16 @@
   - Yaml <a href="https://yaml.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/yaml/yaml-icon.svg" alt="yaml" width="60" height="40"/> </a>
   - Json <a href="https://www.json.org/json-en.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/json/json-ar21.svg" alt="json" width="60" height="40"/> </a> 
   - SQL <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="40"/> </a> 
+#
 
+# Education And Certification
+
+- Ege University - Computer Science
+- Cloud - DevOps Enginner Bootcamp
+- AWS Certified Solutions Architect – Associate
+- AWS Cloud Quest: Cloud Practitioner
+
+#
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
