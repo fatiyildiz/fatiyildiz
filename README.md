@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Fati Yildiz.</h1>
-<h3 align="center">Experienced DevOps engineer with expertise in managing software development processes, deploying applications in production environments, and implementing automation and configuration management tools. Skilled in cloud technologies, microservice architecture, coding, test automation, security, and network management. Proven ability to accelerate software delivery and prevent errors from reaching the production environment. Experienced in managing all stages of the development process and developing strategies to enhance collaboration between teams. Possesses excellent communication and collaboration skills, as well as problem-solving and analytical thinking abilities. Passionate about the software development process and keeping up-to-date with technological trends. Check out my portfolio and projects to see my contributions to the DevOps community.</h3>
+<h1 align="left">Hi 👋, I'm Fati Yildiz.</h1>
+<h3 align="left">Experienced DevOps engineer with expertise in managing software development processes, deploying applications in production environments, and implementing automation and configuration management tools. Skilled in cloud technologies, microservice architecture, coding, test automation, security, and network management. Proven ability to accelerate software delivery and prevent errors from reaching the production environment. Experienced in managing all stages of the development process and developing strategies to enhance collaboration between teams. Possesses excellent communication and collaboration skills, as well as problem-solving and analytical thinking abilities. Passionate about the software development process and keeping up-to-date with technological trends. Check out my portfolio and projects to see my contributions to the DevOps community. </h3>
 
 #
 
@@ -52,27 +52,20 @@
 ### ~ Programing Languages
   - Python <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   - Linux <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+  - Shell Script <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
+  - Yaml <a href="https://yaml.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/yaml/yaml-icon.svg" alt="yaml" width="60" height="40"/> </a>
+  - Json <a href="https://www.json.org/json-en.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/json/json-ar21.svg" alt="json" width="60" height="40"/> </a> 
+  - SQL <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="40"/> </a> 
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/fthyldz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/fthyldz" height="30" width="40" /></a>
-
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
  
-  <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> 
-  
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-  
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-  
+<a href="fatihyildiz8935@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=X0mEIh0RyDdL&format=png" alt="linkedin.com/in/fthyldz" height="40" width="40" /></a>
+
 </p>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fatiyildiz&show_icons=true&locale=en&layout=compact" alt="fatiyildiz" /></p>
 
