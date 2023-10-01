@@ -9,7 +9,7 @@
 
 # Education And Certification
 
-- Ege University - Computer Science
+- Ege University - Communication
 - Cloud - DevOps Enginner Bootcamp
 - AWS Certified Solutions Architect – Associate
 - AWS Cloud Quest: Cloud Practitioner
