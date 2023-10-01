@@ -3,7 +3,6 @@
 
 #
 
-## My portfolio website is www.frankyildiz.com
 
 # Tools, platform and programing language
 ### ~ Cloud Platforms
