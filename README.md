@@ -3,7 +3,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> 
+https://www.linkedin.com/in/frankyildiz/
 <a href="https://www.linkedin.com/in/frankyildiz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/frankyildiz" height="30" width="40" /></a>
+frank.yildiz.devops@gmail.com
 <a href="mailto:frank.yildiz.devops@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=X0mEIh0RyDdL&format=png" alt="email" height="40" width="40" /></a>
 </p>
 
