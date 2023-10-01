@@ -15,7 +15,8 @@
 - AWS Cloud Quest: Cloud Practitioner
 
 
-# Tools, platform and programing language
+# Skills
+
 ### ~ Cloud Platforms
   - Amazon Web Services (AWS) <a href="https://aws.amazon.com"  rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" height="50"/> </a>
 
