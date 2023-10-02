@@ -19,8 +19,6 @@ frank.yildiz.devops@gmail.com
 
 # Skills
 
-## Burak Durak
-
 ### ~ Cloud Platforms
   - Amazon Web Services (AWS) <a href="https://aws.amazon.com"  rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" height="50"/> </a>
 
