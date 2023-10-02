@@ -12,7 +12,7 @@ frank.yildiz.devops@gmail.com
 # Education And Certification
 
 - Ege University - Communication
-- Cloud - DevOps Enginner Bootcamp
+- Cloud - DevOps Engineer Bootcamp
 - AWS Certified Solutions Architect – Associate
 - AWS Cloud Quest: Cloud Practitioner
 
